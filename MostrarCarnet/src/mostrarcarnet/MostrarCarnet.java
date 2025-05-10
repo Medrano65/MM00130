@@ -17,7 +17,7 @@ public class MostrarCarnet {
     public static void main(String[] args) {
         String carnet = "MM00130";
 
-        System.out.println("El número de Carnet Estudiantil es: " + carnet);
+        System.out.println("El número de Carnet del estudiante es: " + carnet);
         
     }
 }
